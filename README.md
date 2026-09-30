@@ -1,2 +1,2 @@
 # mini_numpy_pandas_project
-it is a just practice mini project, i am learning it from utube
+It is a practice mini project based on learnings from YouTube about NumPy and Pandas.
